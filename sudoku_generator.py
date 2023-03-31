@@ -1,6 +1,6 @@
 import copy
 import random as r
-import sudoku_solver_01 as solver
+import sudoku_solver as solver
 
 
 board = [
